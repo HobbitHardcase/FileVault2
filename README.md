@@ -23,6 +23,11 @@ The .packproj file is an Iceberg project file. This allows you to
 package the scripts so that they can be deployed via DeployStudio, or
 your preferred method.
 
+Resources used:
+• CocoaDialog, from http://mstratman.github.io/cocoadialog/
+• Iceberg, from http://s.sudre.free.fr/Software/Iceberg.html
+• https://derflounder.wordpress.com/ - lots of entries about FileVault2
+
 Drawbacks: 
 • The Mac needs to be unlocked by an authorised user before
 the new user can sign in for the first time. 
