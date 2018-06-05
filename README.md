@@ -1,4 +1,8 @@
 # FileVault2
+
+PROJECT MOTHBALLED
+10.13 breaks this workflow. As 10.14 moves us further into MDM-only territory, it won't be developed further. Feel free to use it for OS >=10.12.6
+
 Scripting to help with FileVault2 in an Active Directory environment.
 
 With many thanks to Rich Trouton (https://derflounder.wordpress.com/).
